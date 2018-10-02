@@ -35,5 +35,6 @@
         <update_access>true</update_access>
         <user_role display_value="x_58872_needit.needit_task_user" name="x_58872_needit.needit_task_user">d431740c0f0232000d030dbce1050e47</user_role>
         <ws_access>true</ws_access>
+        <x_271791_test_logi_short_description/>
     </sys_db_object>
 </record_update>
